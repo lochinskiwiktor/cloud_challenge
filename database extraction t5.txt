@@ -1,0 +1,7 @@
+|id |lastname|firstname|email             |city  |age|
+|---|--------|---------|------------------|------|---|
+|1  |Wiktor  |Lochinski|myemail@email.com |Gdynia|36 |
+|2  |Ada     |Kowalska |myemail@myemail.pl|Gdansk|35 |
+|3  |Anna    |Kowal    |myemail@myemail.fr|Elblag|34 |
+|4  |Asia    |Lolska   |myemail@myemail.dn|Borowo|33 |
+|5  |Arletta |Franklin |myemail@myemail.us|NY    |30 |

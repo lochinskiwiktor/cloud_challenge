@@ -1,0 +1,6 @@
+SQL QUERY FOR what is average age of the students in the class? 
+
+select AVG(AGE) as AVG_AGE
+from DAREIT.students
+
+ANSWER: 33.6
